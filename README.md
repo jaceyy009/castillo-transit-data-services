@@ -1,4 +1,4 @@
-# castillo-transit-data-services
+# Castillo Transit Data Services
 
 Reliable GTFS creation, validation, and transit data solutions for agencies of all sizes.
 
